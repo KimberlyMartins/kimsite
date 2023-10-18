@@ -1,0 +1,25 @@
+
+body {
+   text-align: center;
+    padding: 0 50px;
+    background-color: black;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+    text-align: center;
+    color: rgb(151, 6, 115);
+    padding: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+img { 
+    width: 35px;
+    height: 35px;
+    border-radius: 50px;
+    border:3px solid purple ;
+    margin-top: 100px;
+
+}
+.centralizar {
+    text-align: center;
+}
